@@ -34,4 +34,4 @@ if (command === 'ping') {
 } 
 
 //Token Login
-client.login("MTA2MzUxMDI5NzQxMjkxMTEyNA.GdiLFy.8fE7ixT1aVQAdFvC1yxDPIfn9hAgRzwC-y9RCU")
+client.login(" ")
