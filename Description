@@ -1,0 +1,1 @@
+This is a fully working discord bot that has several commands to add and remove channels, add and remove roles, etc. in the context of a classroom. This bot also takes different classes per semester and assigns roles, channels, etc. as needed. This uses Node.js, Discord.js, and Typescript to function
