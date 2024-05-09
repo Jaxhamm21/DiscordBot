@@ -1,0 +1,21 @@
+{
+    "entryPoints": [
+      "./commands/",
+      "./events/",
+      "./helpers/",
+      "./events/selectmanagers/",
+      "./app.ts",
+      "./deploy-commands.ts",
+    ],
+    "entryPointStrategy": "expand",
+    "out": "doc/",
+    "basePath": "./",
+    "plugin": [
+      "typedoc-theme-hierarchy"
+    ],
+    "tsconfig": "./tsconfig.json",
+    "theme": "hierarchy",
+    "excludeInternal": false,
+    "githubPages": false,
+    "name": "Group 7s Bot",
+  }
