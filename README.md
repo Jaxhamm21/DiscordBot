@@ -1,0 +1,1 @@
+This Discord Bot was done in conjunction with my partners Jacob and Matthew. This is a Discord Bot that assigns people taking classes into various channels that an instructor oversees. This bot has the ability to remove and add channels, add and remove roles, add and remove reactions to various channels as needed.
